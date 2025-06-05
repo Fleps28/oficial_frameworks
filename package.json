@@ -1,5 +1,5 @@
 {
-  "name": "frameworks",
+  "name": "next_infob",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "bootstrap": "^5.3.5",
-    "next": "15.3.1",
+    "next": "15.3.0",
     "react": "^19.0.0",
     "react-bootstrap": "^2.10.9",
     "react-dom": "^19.0.0"
